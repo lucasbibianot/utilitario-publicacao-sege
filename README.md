@@ -11,7 +11,7 @@ Utilitário para automatizar a publicação de arquivos do Igest pela SEGE
 * publicar-portal
   * web-driver
   * arquivos-publicacao
-1. Copiar o arquivo [automacao-publicacao](https://github.com/lucasbibianot/utilitario-publicacao-sege/blob/master/automacao-publicacao.exe) para o diretório **publicar-portal**
+1. Copiar o arquivo [automacao-publicacao](https://github.com/lucasbibianot/utilitario-publicacao-sege/raw/master/automacao-publicacao.exe) para o diretório **publicar-portal**
 1. Adicionar o arquivo [.env](https://github.com/lucasbibianot/utilitario-publicacao-sege/blob/master/.env) no diretório **publicar-portal**
 1. Realizar o download do [web-driver](https://chromedriver.chromium.org/downloads) de acordo com a sua versão do Google Chrome e descompactar e salvar o arquivo *chromedriver.exe* no diretório **web-driver**
 1. Adicionar os arquivos que serão publicados no diretório **arquivos-publicacao**
